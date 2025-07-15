@@ -1,2 +1,2 @@
-# hackerrank-practice
-Store my responses to Hackerrank problems.
+# interview-practice
+Store practice code I wrote for interview prep.
